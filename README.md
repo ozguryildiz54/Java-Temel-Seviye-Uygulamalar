@@ -1,2 +1,2 @@
-# Java-Temel-Seviye-Uygulamalar
-Java eğitimi için temel seviye uygulamalar içerir.
+Java Basic Level Applications
+This repository contains basic-level applications designed for Java education.
